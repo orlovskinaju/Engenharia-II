@@ -79,7 +79,7 @@ function CadastrarUsuario() {
             </button>
           </Link>
           {/* Botão Cadastrar */}
-          <button type="submit" className="submit-button">
+          <button type="submit" className="submit-button2">
             Cadastrar
           </button>
         </div>
